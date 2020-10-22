@@ -4,3 +4,7 @@ Rails.application.routes.draw do
 
   resources :articles, only: [:show, :new, :creat, :edit, :update]
 end
+
+
+# ssh-add -K ~/.ssh/〇〇-GitHub
+# ssh -T git@github.com

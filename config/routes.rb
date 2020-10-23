@@ -5,6 +5,5 @@ Rails.application.routes.draw do
   resources :articles
 end
 
-
 # ssh-add -K ~/.ssh/〇〇-GitHub
 # ssh -T git@github.com

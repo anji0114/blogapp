@@ -4,6 +4,6 @@ class RemoveContentFromArticles < ActiveRecord::Migration[6.0]
   end
 
   def down
-    add_column: articles, :content, :text
+    add_column :articles, :content, :text
   end
 end

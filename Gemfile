@@ -28,6 +28,7 @@ gem 'binding_of_caller'
 gem 'devise'
 gem 'faker'
 gem 'hamlit'
+gem 'sendgrid-ruby'
 gem 'aws-sdk-s3', require: false
 
 # Use Active Storage variant

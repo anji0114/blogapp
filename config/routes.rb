@@ -26,3 +26,4 @@ end
 
 # ssh-add -K ~/.ssh/〇〇-GitHub
 # ssh -T git@github.com
+# foreman start -f Procfile.dev

@@ -46,6 +46,7 @@ group :development, :test do
   gem 'dotenv-rails'
   gem 'letter_opener'
   gem 'letter_opener_web', '~> 1.0'
+  gem 'rspec-rails'
 end
 
 group :development do

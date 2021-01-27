@@ -34,3 +34,14 @@
     }
   }
 }
+
+trix-editor {
+  max-height: 20em;
+  min-height: 20em;
+  overflow-y: auto;
+  img {
+    max-height: 150px;
+    width: auto;
+  }
+}
+

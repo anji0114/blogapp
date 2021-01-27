@@ -60,6 +60,10 @@ $container-padding: 16px;
 
   &_content {
     padding: 24px 0 32px;
+
+    img {
+      max-height: 240px;
+    }
   }
 
   &_heart {
